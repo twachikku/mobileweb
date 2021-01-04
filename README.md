@@ -6,5 +6,6 @@
 ### บทที่ 2 React.JS
 - [Slide](/slides/ch02_react.pdf)
 - [Code ตัวอย่าง](/react)
+- [แบบฝึกหัด](/react/work01.md) 
  
 ### บทที่ 3 React Nactive
