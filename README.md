@@ -3,6 +3,7 @@
 
 ### บทที่ 1 Java Script
 - [Slide](/slides/ch01_javascript.pdf)
+- [Code ตัวอย่าง](/slides/ch01.md)
 ### บทที่ 2 React.JS
 - [Slide](/slides/ch02_react.pdf)
 - [Code ตัวอย่าง](/react)
