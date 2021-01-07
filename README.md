@@ -10,10 +10,18 @@
 - [แบบฝึกหัด](/react/work01.md) 
  
 ### บทที่ 3 React Nactive
+- React Fundamentals
+- Native Componenets
+- Cross-platform App  
+- Style, Layout, Color
+- https://reactnative.dev/
 
 ### บทที่ 4 User Input
+- Text Input, Button, ScrollView, ListView
+- Handling Touches
 
 ### บทที่ 5 Navigation
+- React Navigation
 
 ### บทที่ 6 Data 
  การอ่าน และ การบันทึกข้อมูลบนเว็บ
