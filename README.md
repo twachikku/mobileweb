@@ -7,7 +7,7 @@
 ### บทที่ 2 React.JS
 - [Slide](/slides/ch02_react.pdf)
 - [Code ตัวอย่าง](/react)
-- [แบบฝึกหัด](/react/work01.md) 
+- [แบบฝึกหัด 1](/lab01.md) 
  
 ### บทที่ 3 React Nactive
 - React Fundamentals
@@ -15,7 +15,7 @@
 - Cross-platform App  
 - Style, Layout, Color
 - https://reactnative.dev/
-
+- [แบบฝึกหัด 2](/lab02.md) 
 ### บทที่ 4 User Input
 - Text Input, Button, ScrollView, ListView
 - Handling Touches
