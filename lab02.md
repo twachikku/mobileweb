@@ -66,6 +66,25 @@ async loadData() {
 />             
 </ScrollView>
 ```
+
+- ไปแก้ไขไฟล์  components/StarWarsCard.js
+
+```javascript
+เดิมจะมีแค่ Name และ Height
+ <View style={styles.col2}>
+ <Text style={styles.key}>Name : <Text style={{color:Themes.colors.fire}}>{this.props.person.name}</Text></Text>
+ <Text style={styles.key}>Height : <Text style={{color:Themes.colors.fire}}>{this.props.person.height}</Text></Text>
+ </View>
+```
+- ให้เพิ่มข้อมูลอื่น ๆ ของตัวละคร
+
+```javascript
+ตัวอย่าง  
+   
+   <Text style={styles.key}>Mass : <Text style={{color:Themes.colors.fire}}>{this.props.person.mass} kg.</Text></Text>
+   
+```
+
 - ตัวอย่างหน้าจอ
 <img src="/images/lab02_starwar.jpg" width=400>
 
