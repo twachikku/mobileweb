@@ -11,10 +11,10 @@
 - [แบบฝึกหัด 1](/lab01.md) 
  
 ### บทที่ 3 React Nactive
-- React Fundamentals
+- [React Fundamentals](https://reactnative.dev/docs/intro-react)
 - Native Componenets
 - Cross-platform App  
-- Style, Layout, Color
+- [Style, Layout, Color](https://reactnative.dev/docs/style)
 - https://reactnative.dev/
 - [แบบฝึกหัด 2](/lab02.md) 
 ### บทที่ 4 User Input
