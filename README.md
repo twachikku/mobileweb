@@ -26,13 +26,17 @@
 - React Navigation
 - [TypeScript] (https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - Expo Tab Templates
+- [รายละเอียด](/ch05.md) 
 
 ### บทที่ 6 Data 
 - การอ่าน และ การบันทึกข้อมูลบนเว็บ
 - Firebase
+- [รายละเอียด](/ch06.md) 
 
 ### บทที่ 7 Mobile Components
  การเข้าถึงอุปกรณ์ ของ Mobile Device
  กล้อง Gyroscope GPS
+ - [รายละเอียด](/ch07.md) 
  
 ### บทที่ 8 Firebase
+- [รายละเอียด](/ch08.md) 
