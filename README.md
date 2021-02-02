@@ -20,12 +20,16 @@
 ### บทที่ 4 User Input
 - Text Input, Button, ScrollView, ListView
 - Handling Touches
+- React Native Paper : https://callstack.github.io/react-native-paper/
 
 ### บทที่ 5 Navigation
 - React Navigation
+- [TypeScript] (https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- Expo Tab Templates
 
 ### บทที่ 6 Data 
- การอ่าน และ การบันทึกข้อมูลบนเว็บ
+- การอ่าน และ การบันทึกข้อมูลบนเว็บ
+- Firebase
 
 ### บทที่ 7 Mobile Components
  การเข้าถึงอุปกรณ์ ของ Mobile Device
